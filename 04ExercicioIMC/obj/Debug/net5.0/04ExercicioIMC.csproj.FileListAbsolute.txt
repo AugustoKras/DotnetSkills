@@ -1,0 +1,16 @@
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.exe
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.deps.json
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.runtimeconfig.json
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.runtimeconfig.dev.json
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.dll
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\bin\Debug\net5.0\ref\04ExercicioIMC.dll
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.pdb
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.csprojAssemblyReference.cache
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.AssemblyInfo.cs
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.dll
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\ref\04ExercicioIMC.dll
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.pdb
+C:\Users\Augusto Kraszczuk\Desktop\C##\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.genruntimeconfig.cache
